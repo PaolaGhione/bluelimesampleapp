@@ -1,2 +1,2 @@
-& myapp
-This a github test app
+& ! myapp
+>This a github test app
